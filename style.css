@@ -1,0 +1,35 @@
+*{margin: 0px;
+padding: 0px;}
+
+
+
+
+.container-1{display: flex; 
+align-items: center;
+justify-content: space-around;
+background-color: black;
+
+
+}
+.
+.p{color: blueviolet; padding-top: 10px; padding-bottom: 20px; }
+.h1{text-align: center; color: fuchsia; padding-bottom: 20px;}
+.img2{height: 20opx; width: 300px; margin-top: 5px;}
+.container-4{display: flex; align-items: center; 
+    justify-content: space-around;
+background-color: rgb(190, 187, 182); margin-bottom: 1opx; height: 5oopx;}
+.button{border-radius: 5px; background-color: red; margin-top: 20px;}
+
+.logo{width: 100px; height: 100px; padding-top: 3px;}
+
+.menus{display: flex; list-style-type: none; color: white;}
+
+.list{margin-right: 10px;}
+
+.container-7{ display: flex; align-items: center; justify-content: space-around; background-color: black;}
+.img3{width: 300px; height: 200px;}
+
+.container-8{ margin-right:20px;}
+.h2{text-align: center; color: gold; padding-bottom: 20px;}
+.p2{padding-top: 20px; color: oldlace;}
+.container-9{}
